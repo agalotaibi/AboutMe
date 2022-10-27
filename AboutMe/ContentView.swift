@@ -21,7 +21,7 @@ struct ContentView: View {
                 .fontWeight(.medium)
                 .foregroundColor(Color.purple)
             
-            Text("Hello my name is Amaal I'm Majoring in Information Technology and Chemistry, currently I'm a learner at Apple Developer Academy at Saudi Arabia")
+            Text("Hello my name is Amaal I'm Majoring in Information Technology and Chemistry, currently I'm a learner at Apple Developer Academy at Saudi Arabia.")
         }
         .padding()
     }
